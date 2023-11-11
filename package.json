@@ -1,0 +1,12 @@
+{
+	"name": "adambatkin.dev",
+	"version": "1.0.0",
+	"description": "My personal website!",
+	"main": "index.js",
+	"repository": "github.com/adam-batkin/adambatkin.dev",
+	"author": "Adam Batkin <me@adambatkin.dev>",
+	"license": "MIT",
+	"dependencies": {
+		"tailwindcss": "^3.3.5"
+	}
+}
